@@ -1,6 +1,7 @@
 # Primary-cicatricial-alopecia (PCA)_work
 
 **Primary cicatricial alopecias are characterized by dysregulation of shared gene expression pathways**
+
 Eddy Hsi Chun Wang, Ph.D. , Isha Monga, Ph.D. , Brigitte N. Sallee, M.D. , James C. Chen, Ph.D. , Alexa R. Abdelaziz, Ph.D. , Rolando Perez-Lorenzo, Ph.D. , Lindsey A. Bordone, M.D. , Angela M. Christiano, Ph.D._
                                       
 
