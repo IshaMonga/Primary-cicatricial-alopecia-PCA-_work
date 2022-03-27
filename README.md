@@ -1,8 +1,8 @@
-# Primary-cicatricial-alopecia (PCA)_work
+# Primary-cicatricial-alopecia (PCA)
 
 **Primary cicatricial alopecias are characterized by dysregulation of shared gene expression pathways**
 
-Eddy Hsi Chun Wang, Ph.D. , Isha Monga, Ph.D. , Brigitte N. Sallee, M.D. , James C. Chen, Ph.D. , Alexa R. Abdelaziz, Ph.D. , Rolando Perez-Lorenzo, Ph.D. , Lindsey A. Bordone, M.D. , Angela M. Christiano, Ph.D._
+Eddy Hsi Chun Wang, Ph.D. , Isha Monga, Ph.D. , Brigitte N. Sallee, M.D. , James C. Chen, Ph.D. , Alexa R. Abdelaziz, Ph.D. , Rolando Perez-Lorenzo, Ph.D. , Lindsey A. Bordone, M.D. , Angela M. Christiano, Ph.D.
                                       
 
 The primary forms of cicatricial (scarring) alopecia (PCA) are a group of inflammatory, irreversible hair loss disorders characterized by immune cell infiltrates targeting hair follicles (HFs). Lichen planopilaris (LPP), frontal fibrosing alopecia (FFA) and centrifugal cicatricial alopecia (CCCA) are among the main subtypes of PCAs. The pathogenesis of the different types of PCAs are poorly understood, and current treatment regimens yield inconsistent and unsatisfactory results.
@@ -17,6 +17,8 @@ We performed high-throughput RNA-sequencing on scalp biopsies of a large cohort 
 This study provides valuable insight into the gene expression profiles of major PCA variants, lichen planopilaris (LPP), frontal fibrosing alopecia (FFA), central centrifugal cicatricial alopecia (CCCA), and provides evidence that all three variants share similar pathogenic pathways involving mast cells. These data can be leveraged to design novel therapeutic strategies for PCA patients targeting chlosterogenic pathways, reducing fibrosis, and targeting mast cells.
 
 **Codes and processed outputs for Primary cicatricial alopecia manuscript **
+
+
 The current repo contains the script used for bulk RNAseq analysis of PCA patients such as Lichen planopilaris (LPP), frontal fibrosing alopecia (FFA) and centrifugal cicatricial alopecia (CCCA). Code directory contains script and processed input files are in the processed_files folder.
 
 
